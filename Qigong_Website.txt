@@ -1,0 +1,1372 @@
+about.html:
+----------
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>About Lee | Qigong in the Midlands – The Art of Energy</title>
+    <meta name="description" content="Learn about Lee, an NQA-affiliated Qigong instructor in the Midlands of South Carolina and her journey through music, Tai Chi, and Qigong.">
+    <meta name="keywords" content="About Lee, Qigong instructor, Qigong Midlands SC, Tai Chi, Qigong teacher">
+    <meta name="author" content="Lee">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <style>
+        .profile-container {
+            text-align: center; /* centers only the image */
+            margin-bottom: 20px;
+        }
+        .profile-photo {
+            max-width: 250px;
+            width: 100%;
+            height: auto;
+            border: 8px solid #2f5d50; /* decorative frame */
+            border-radius: 12px;
+            object-fit: cover;
+            margin-bottom: 15px;
+            display: block;
+            margin-left: auto;
+            margin-right: auto; /* ensures image is centered */
+        }
+        .profile-description {
+            text-align: left; /* paragraphs aligned left */
+        }
+    </style>
+</head>
+
+<body>
+
+<header class="hero">
+    <h1 style="text-align:center;">About Me</h1>
+    <img src="https://codehs.com/uploads/445e7bf26784b0ba05af687166ce88b8"
+         alt="Qigong in the Midlands logo">
+</header>
+
+<nav>
+    <center>
+        <a href="index.html">Home</a>
+        <a href="about.html">About Lee</a>
+        <a href="classes.html">Classes</a>
+        <a href="calendar.html">Calendar</a>
+        <a href="aboutqigong.html">About Qigong</a>
+        <a href="faq.html">FAQ</a>
+    </center>
+</nav>
+
+<section class="about-me" style="max-width:800px; margin:auto; padding:20px; line-height:1.6;">
+
+    <!-- Profile Section -->
+    <div class="profile-container">
+        <img src="https://codehs.com/uploads/c9ad88f0bb76ef14d7f29abb8f733b7a" alt="Lee Brasche" class="profile-photo">
+        <div class="profile-description">
+            <p>
+                Lee Brasche is a certified Qigong instructor, passionate musician, and Tai Chi practitioner.
+                She brings decades of experience in music education and holistic wellness to her classes in the
+                Midlands of South Carolina. Lee’s teaching blends tradition, personalized guidance, and
+                a love of helping students achieve balance, energy, and vitality.
+            </p>
+        </div>
+    </div>
+    <!-- End Profile Section -->
+
+    <p>
+    I was born in Asheville North Carolina. I had the good fortune of living in the Blue Ridge Mountains for most of my childhood.
+    We moved to the North Carolina Piedmont where I met my high school sweetheart and husband, Kevin. After college, we settled
+    in the Midlands of South Carolina. We had three beautiful children, who are now beautiful adults and two spectacular grands!
+    </p>
+
+    <p>
+    I have been blessed to teach/direct music for most of my life. I began my career in church music and private instruction and
+    then transitioned to K–12 music education. For 16 years, I served as a high school choral music and piano teacher within
+    Lexington/Richland District Five. My work in academia also extended to Newberry College, where I taught musicianship and
+    choral teacher preparation. Today, I continue to share my passion for music through private piano and theory instruction
+    for young students.
+    </p>
+
+    <p>
+    For years I had wanted to learn Tai Chi Chuan. Like many, I began slowly by trial and error through DVDs and YouTube.
+    Eventually joining a Tai Chi class at the Northwest YMCA led by Dr. Dee Gulledge, I received my certification from Tai Chi
+    for Health. Driven by a desire to support a family member’s health journey, I expanded my focus toward Qigong.
+    I was directed by Ken Cohen, a pioneer of Qigong in the United States, and Clayton Crosley, President of the National Qigong
+    Association (NQA), to Master John Munro of Long White Cloud Qigong in New Zealand where I began my formal studies.
+    </p>
+
+    <p>
+    Through dedicated practice and study, I have earned four hundred hours of certification in Small Universe and Self-Healing
+    Qigong. I am continuing my advanced studies with Master Munro through 2026 and have begun specialized training with
+    Dr. Matthew Komelski in Roanoke, Virginia, focusing on Qigong and Hunyuan Taiji Gong Fa.
+    </p>
+
+    <p>
+    I currently teach classes at the Northwest YMCA and Lowman Home and various events in the Midlands. I offer one-on-one and group Pop-Ups, both indoors and outdoors, throughout various times of day and evening. Based on student feedback, it is time to offer in depth areas of Qigong study for those in the Midlands.
+    </p>
+
+    <p>
+    I invite you to join our community and experience the restorative power of these ancient practices.
+    </p>
+
+    <p>
+    In peace,<br>
+    Lee
+    </p>
+</section>
+
+<footer>
+    <p>&copy; 2026 Qigong in the Midlands</p>
+</footer>
+
+</body>
+</html>
+
+aboutqigong.html:
+----------------
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>A Brief History of Qigong | Qigong with Lee – The Art of Energy</title>
+    <meta name="description" content="Explore the history, principles, and benefits of Qigong, an ancient Chinese practice for health, meditation, and healing.">
+    <meta name="keywords" content="Qigong history, Qigong principles, Tai Chi, Chinese healing arts">
+    <meta name="author" content="Lee">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+<header class="hero">
+    <h1 style="text-align:center;">About Qigong</h1>
+    <img src="https://codehs.com/uploads/445e7bf26784b0ba05af687166ce88b8"
+         alt="Qigong in the Midlands logo">
+</header>
+<nav>
+    <center>
+        <a href="index.html">Home</a>
+        <a href="about.html">About Lee</a>
+        <a href="classes.html">Classes</a>
+        <a href="calendar.html">Calendar</a>
+        <a href="aboutqigong.html">About Qigong</a>
+        <a href="faq.html">FAQ</a>
+    </center>
+</nav>
+
+<section class="qigong-history" style="max-width:900px; margin:auto; padding:20px; line-height:1.6;">
+
+<h2>An Extremely Brief History </h2> 
+<div style="text-align:center; margin:20px 0;">
+    <img src="https://codehs.com/uploads/631236931ca1d08e5c87b3f2a75e4fd7" alt="Yin Yang symbol representing balance and harmony" style="width:150px; height:auto;">
+</div>
+<p>
+The art of Qigong began 5000–8000 years ago in China. After working in fields, people recreated movements through dance which
+were witnessed in nature. They discovered various movements were helpful for specific ailments. Eventually, most villages
+practiced their own basic form of Qigong passing it down through the generations. As it was used for healing, meditation,
+and protecting their region, these skills were often kept secret within each village or family. Thousands of interpretations
+of the various movements, skills, and specialties continue to this day.
+</p>
+
+<p>
+During China’s Cultural Revolution in the mid 1900s, many practitioners were forced to become even more secretive.
+Only recently has Qigong become available for the masses through immigration and globalization.
+</p>
+
+<h2>The Study of Qigong</h2>
+
+<p>
+Just as birds have different calls and habits, Qigong has as many different interpretations. However, the basic principles
+should be similar.
+</p>
+
+<ul>
+    <li><strong>Posture &amp; Movement:</strong> physical alignment to facilitate energy flow.</li>
+    <li><strong>Breath:</strong> varied patterns of inhalation and exhalation.</li>
+    <li><strong>Mind:</strong> observation, focus, and intention.</li>
+</ul>
+
+<p>
+Qigong is a versatile practice that can be modified to the individual’s needs and abilities. Movements range from gentle
+and meditative to explosive and dynamic with repetitions varying from once to several hundred.
+</p>
+
+<ul>
+    <li><strong>Structure:</strong> Some practices follow set forms, such as the Eight Brocades, while others utilize freeform
+    and still practice (Zhan Zhuang) based on the needs of body, emotions, and mind.</li>
+
+    <li><strong>Setting:</strong> Benefits can be found in both the collective energy of a group class or individual study.
+    Small spaces, outdoors, and different times of day or evening all have an impact on a practice.</li>
+
+    <li><strong>Consistency:</strong> The key to success is independent home practice. While movements can be adjusted for any
+    physical ability, it is important for each practitioner to be aware and engaged to avoid strain.</li>
+</ul>
+
+<p>
+Qigong studies the “inner space” as much as external movement. To understand the flow of energy, practitioners often use
+nature-based metaphors for the body’s internal systems:
+</p>
+
+<table class="custom-table">
+<thead>
+<tr>
+    <th>Internal Element</th>
+    <th>Metaphoric Equivalent</th>
+    <th>Function in Practice</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+    <td>Organs</td>
+    <td>Lakes</td>
+    <td>Storage and regulation of emotional and physical health.</td>
+</tr>
+<tr>
+    <td>12 Meridians</td>
+    <td>Rivers</td>
+    <td>Channels through which energy flows to sustain functionality.</td>
+</tr>
+<tr>
+    <td>Dantiens</td>
+    <td>Oceans</td>
+    <td>The primary reservoirs or centers of energy.</td>
+</tr>
+<tr>
+    <td>8 Extraordinary Meridians</td>
+    <td>Ocean Currents</td>
+    <td>Deep pathways that regulate the overall energy field.</td>
+</tr>
+</tbody>
+</table>
+
+<h2>Why Study Qigong</h2>
+
+<p>
+As part of the human experience, everyone encounters physical, mental, or emotional pain. If pain becomes prolonged,
+whether from an acute event or chronic stress, the body, mind, or emotions can be adversely affected.
+</p>
+
+<p>
+Western medicine, including the VA, has embraced Qigong as a substantial mind/body complementary mode for health.
+Research has shown positive results for:
+</p>
+
+<ul>
+    <li><strong>Physical Health:</strong> Balance, strength, flexibility, blood pressure, and sleep.</li>
+    <li><strong>Chronic Conditions:</strong> Parkinson’s, Arthritis, COPD, Fibromyalgia, Lupus, and Cancer.</li>
+    <li><strong>Mental Health:</strong> Stress relief, clarity, focus, emotional balance, and PTSD.</li>
+</ul>
+
+<p>
+Every person’s experience of life is different, and the path to healing is unique. By consistently using breath,
+movement, and mindfulness in tandem, you can unlock the potential to aid your body, mind, and emotions.
+</p>
+
+<p>
+For further studies, visit the <a href="https://www.nqa.org" target="_blank">National Qigong Association</a> or the
+<a href="https://www.qigonginstitute.org" target="_blank">Qigong Institute</a>.
+</p>
+
+</section>
+
+</body>
+</html>
+
+calendar.html:
+-------------
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Qigong Class Schedule | Midlands South Carolina</title>
+
+<meta name="description" content="View the current Qigong class schedule and upcoming workshops in the Midlands of South Carolina.">
+<meta name="keywords" content="qigong schedule, qigong calendar, qigong classes near me, qigong midlands sc">
+<meta name="author" content="Lee">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+  <h1>Classes and Workshops Calendar</h1>
+  <p>
+    Experience mindful movement, breath awareness, and energy cultivation through
+    Qigong practice.
+  </p>
+</header>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="about.html">About Lee</a>
+  <a href="classes.html">Classes</a>
+  <a href="calendar.html">Calendar</a>
+  <a href="aboutqigong.html">About Qigong</a>
+  <a href="faq.html">FAQ</a>
+</nav>
+
+<main>
+
+<section class="premium-card calendar-section">
+
+  <!-- Logo goes INSIDE the section -->
+  <div class="logo-container">
+    <img src="https://codehs.com/uploads/445e7bf26784b0ba05af687166ce88b8"
+         width="200"
+         alt="Qigong in the Midlands logo">
+  </div>
+
+  <div class="calendar-frame">
+
+    <h2>Upcoming Classes</h2>
+
+    <p>Upcoming classes and workshops will be listed here.</p>
+
+    <iframe
+      src="https://calendar.google.com/calendar/embed?src=992a4a84d7dacf1ea57968363ed6d38547328ef0ae0d6e7348e649fb0307fe7a%40group.calendar.google.com&ctz=America%2FNew_York"
+      style="border:0; width:100%; height:600px;"
+      frameborder="0"
+      scrolling="no">
+    </iframe>
+
+  </div>
+
+</section>
+
+</main>
+
+<footer>
+  &copy; 2026 Qigong in the Midlands
+</footer>
+
+</body>
+</html>
+
+classes.html:
+------------
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Qigong Offerings for 2026 | Qigong in the Midlands</title>
+    <meta name="description" content="Explore Qigong class offerings for 2026 including self-healing series and workshops in the Midlands of South Carolina.">
+    <meta name="author" content="Lee">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header class="hero">
+    <h1>Qigong Offerings for 2026</h1><img src="https://codehs.com/uploads/445e7bf26784b0ba05af687166ce88b8"
+         alt="Qigong in the Midlands logo">
+    <p>
+        Thank you for your interest in 2026 Qigong sessions. To ensure a focused and high-quality experience for all,
+        please review the following class structure and guidelines.
+    </p>
+</header>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="about.html">About Lee</a>
+    <a href="classes.html">Classes</a>
+    <a href="calendar.html">Calendar</a>
+    <a href="aboutqigong.html">About Qigong</a>
+    <a href="faq.html">FAQ</a>
+</nav>
+
+<main>
+
+<!-- MAIN CLASS CONTENT -->
+<section>
+
+<div class="card">
+<h2>Enrollment & Reservations</h2>
+<p>
+To reserve your placement, please contact Lee directly. Due to our commitment to individualized instruction,
+all classes are limited to a maximum of four participants.
+</p>
+</div>
+
+<div class="card">
+<h2>Class Structure & Attendance</h2>
+<ul>
+<li><strong>Duration:</strong> Each session is 60 minutes, beginning with a guided warm-up and concluding with a Q&amp;A period.</li>
+<li><strong>Punctuality:</strong> Please arrive and be settled 5 minutes prior to the scheduled start time.</li>
+<li><strong>Absences:</strong> One week notice prior to the start of sessions if you must drop.</li>
+</ul>
+</div>
+
+<div class="card">
+<h2>Preparation & Attire</h2>
+<ul>
+<li><strong>Clothing:</strong> Loose, comfortable clothing and soft-soled shoes; barefoot practice is welcomed.</li>
+<li><strong>Environment:</strong> Weather permitting, sessions will be held outdoors. Dress in layers.</li>
+<li><strong>Supplies:</strong> Please bring an exercise mat and water.</li>
+</ul>
+</div>
+
+<div class="card">
+<h2>Tuition & Policies</h2>
+<ul>
+<li><strong>Payment:</strong> Tuition is due in full on the first day of class via cash or check.</li>
+<li><strong>Refunds:</strong> No refunds or make-up sessions for individual absences.</li>
+<li><strong>Home Practice:</strong> Daily practice of 30–60 minutes is recommended.</li>
+</ul>
+</div>
+
+<div class="card">
+<h2>Spring / Early Summer Classes</h2>
+
+<h3>Introduction to Qigong: Principles and Study of Breath, Movement, and Mind</h3>
+<p>
+<strong>Format:</strong> 4-week consecutive weekly series<br>
+<strong>Tuition:</strong> $45<br>
+<strong>Frequency:</strong> Offered seasonally
+</p>
+<p>
+This foundational course is designed for beginners or those seeking to revisit the foundations of Qigong.
+</p>
+</div>
+
+<div class="card">
+<h3>Qigong for Self-Healing Part I: Connection</h3>
+<p>
+<strong>Format:</strong> 4-week series, meeting every other week<br>
+<strong>Tuition:</strong> $50<br>
+<strong>Frequency:</strong> Offered bi-annually
+</p>
+</div>
+
+<div class="card">
+<h3>Qigong for Self-Healing Part II: Currents and Clearing</h3>
+<p>
+<strong>Format:</strong> 4-week series, meeting every other week<br>
+<strong>Tuition:</strong> $50<br>
+<strong>Frequency:</strong> Offered bi-annually
+</p>
+</div>
+
+<div class="card">
+<h3>Qigong for Self-Healing Part III: Rivers and Lakes – Putting it All Together</h3>
+<p>
+<strong>Format:</strong> 4-week series, meeting every other week<br>
+<strong>Tuition:</strong> $60<br>
+<strong>Frequency:</strong> Offered annually
+</p>
+</div>
+
+<div class="card">
+<h2>Upcoming Workshops</h2>
+<p><strong>2026 Workshops coming in late summer / fall.</strong></p>
+</div>
+
+</section>
+
+<!-- CTA SECTION -->
+<section class="cta-section">
+
+  <h2>Reserve Your Spot</h2>
+
+  <p>
+    Classes are limited to maintain a peaceful and supportive learning environment.
+  </p>
+
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSdYR2KvZAVD2i2F6qRnfmdZk4vbwkp3_iVXo_fGTy2Hq7hWgg/viewform?usp=header"
+     target="_blank"
+     class="register-btn">
+     Sign Up for Classes
+  </a>
+
+</section>
+
+</main>
+
+<footer>
+    &copy; 2026 Qigong in the Midlands
+    <p>Contact: Qigonginthemidlands@gmail.com</p>
+</footer>
+
+</body>
+</html>
+
+faq.html:
+--------
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>FAQ | Qigong in the Midlands</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="style.css">
+
+<style>
+
+/* FAQ Accordion */
+
+.faq-container {
+    max-width: 900px;
+    margin: 60px auto;
+}
+
+.faq-item {
+    border-bottom: 1px solid #2f5d50;
+}
+
+.faq-question {
+    width: 100%;
+    background: none;
+    border: none;
+    padding: 20px;
+    text-align: left;
+    font-size: 18px;
+    font-family: Georgia, serif;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.faq-question:hover {
+    background-color: #e5ece9;
+}
+
+.faq-answer {
+    display: none;
+    padding: 0 20px 20px 20px;
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+.arrow {
+    transition: transform 0.3s ease;
+}
+
+.faq-question.active .arrow {
+    transform: rotate(180deg);
+}
+
+.faq-question.active + .faq-answer {
+    display: block;
+}
+
+</style>
+</head>
+
+<body>
+
+<header class="hero">
+<h1>Frequently Asked Questions</h1><img src="https://codehs.com/uploads/445e7bf26784b0ba05af687166ce88b8"alt="Qigong in the Midlands logo">
+</header>
+
+<nav>
+<a href="index.html">Home</a>
+<a href="about.html">About Lee</a>
+<a href="classes.html">Classes</a>
+<a href="calendar.html">Calendar</a>
+<a href="aboutqigong.html">About Qigong</a>
+<a href="faq.html">FAQ</a>
+</nav>
+
+<main>
+
+<div class="faq-container">
+
+<div class="faq-item">
+<button class="faq-question">
+<span>Will I be able to do this with my level of fitness?</span>
+<span class="arrow">▼</span>
+</button>
+
+<div class="faq-answer">
+<p>
+If you are able to walk, sit, and stand independently, you should be fine in an introductory Qigong class.
+All moves are adaptable. Everyone should stay within your own comfort zone.
+If you are unable to walk, sit, or stand independently, bring an assistant if needed.
+</p>
+</div>
+</div>
+
+<div class="faq-item">
+<button class="faq-question">
+<span>What should I bring?</span>
+<span class="arrow">▼</span>
+</button>
+
+<div class="faq-answer">
+<ul>
+<li>A yoga mat or blanket</li>
+<li>Water bottle (warm water in cold months, room temperature in warm months)</li>
+<li>Fresh snack if needed</li>
+<li>Layered, loose clothing</li>
+<li>Gloves in cooler weather</li>
+<li>Barefoot or low-heeled shoes recommended</li>
+</ul>
+</div>
+</div>
+
+<div class="faq-item">
+<button class="faq-question">
+<span>What types of movements should I expect?</span>
+<span class="arrow">▼</span>
+</button>
+
+<div class="faq-answer">
+<ul>
+<li>Lying down, seated, or standing movements</li>
+<li>Kicks and punches may be included</li>
+<li>Postures may be held longer</li>
+<li>Bending, turning, balancing, and back arching may occur</li>
+<li>Breathing exercises are central</li>
+<li>Always stay within your comfort zone</li>
+</ul>
+</div>
+</div>
+
+<div class="faq-item">
+<button class="faq-question">
+<span>Can children do Qigong?</span>
+<span class="arrow">▼</span>
+</button>
+
+<div class="faq-answer">
+<p>
+Yes — children and the elderly can benefit from Qigong. Future announcements will include family class times.
+</p>
+</div>
+</div>
+
+<div class="faq-item">
+<button class="faq-question">
+<span>Is Qigong religious in nature?</span>
+<span class="arrow">▼</span>
+</button>
+
+<div class="faq-answer">
+<p>
+While Qigong has historical roots in Daoist and Buddhist traditions, it is not a faith-based practice.
+Meditative components are open to personal interpretation.
+</p>
+</div>
+</div>
+
+<div class="faq-item">
+<button class="faq-question">
+<span>Who is Qigong helpful for?</span>
+<span class="arrow">▼</span>
+</button>
+
+<div class="faq-answer">
+<p>
+Almost everyone can benefit from Qigong practice. Consistency improves results.
+Exception: Not certified to work with schizophrenia spectrum conditions.
+</p>
+</div>
+</div>
+
+</div>
+
+<section style="text-align:center; padding:40px;">
+<p>“When the student is ready, the teacher will appear. When the student is truly ready, the teacher disappears.”</p>
+<p>— Lao Tzu</p>
+</section>
+
+</main>
+
+<script>
+document.querySelectorAll(".faq-question").forEach(button => {
+    button.addEventListener("click", () => {
+        button.classList.toggle("active");
+    });
+});
+</script>
+
+</body>
+</html>
+
+index.html:
+----------
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Qigong in the Midlands | The Art of Energy</title>
+
+<meta name="description" content="Qigong in the Midlands offers Qigong classes, workshops, and self-healing practices focused on breath, movement, and mindfulness.">
+<meta name="keywords" content="Qigong Midlands, Qigong South Carolina, Tai Chi, energy healing">
+<meta name="author" content="Lee">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<!-- ===== HEADER WITH PHOTOS ===== -->
+<header>
+
+<h1>Qigong in the Midlands</h1>
+
+<p class="tagline">
+The Art of Energy
+<img src="https://codehs.com/uploads/38e75b470f2e1fe8fa5297101ad839f6"
+             alt="Infinity symbol"
+             style="width:50px; vertical-align:middle;">
+    </h2>
+
+    <div class="energy-images">
+        <img src="https://codehs.com/uploads/df709d418837864e2ba3abdacd33a9c3"
+             alt="Qigong practice outdoors">
+
+        <img src="https://codehs.com/uploads/1ab2505934039e0c6b43ca34e4dbba55"
+             alt="Mindful movement and breath">
+
+        <img src="https://codehs.com/uploads/a7de57dec60546d40c8c16ce326b8308"
+             alt="Group Qigong session">
+</div>
+
+</header>
+
+<!-- ===== NAVIGATION ===== -->
+<nav>
+<a href="index.html">Home</a>
+<a href="about.html">About Lee</a>
+<a href="classes.html">Classes</a>
+<a href="calendar.html">Calendar</a>
+<a href="aboutqigong.html">About Qigong</a>
+<a href="faq.html">FAQ</a>
+</nav>
+
+<main>
+
+<!-- ===== WELCOME SECTION WITH LOGO ===== -->
+<section class="welcome-section">
+
+<div class="welcome-flex">
+
+<div>
+<h2>Welcome</h2> 
+
+<p>
+Welcome to Qigong in the Midlands. Qigong is an ancient Chinese practice that integrates
+breath, movement, and mindfulness to support physical, mental, and emotional well-being.
+Classes are designed for all levels and abilities.
+</p>
+</div>
+
+<!-- Logo next to Welcome header -->
+<div>
+<img src="https://codehs.com/uploads/445e7bf26784b0ba05af687166ce88b8"
+width="180"
+alt="Qigong in the Midlands logo"
+class="main-logo">
+</div>
+
+</div>
+
+</section>
+
+<!-- ===== WHY PRACTICE QIGONG ===== -->
+<section class="art-energy">
+
+<h2>Why Practice Qigong?</h2>
+
+<ul>
+<li>Improve balance, strength, and flexibility</li>
+<li>Reduce stress and support emotional wellness</li>
+<li>Encourage mindful movement and breath awareness</li>
+<li>Support long-term health and vitality</li>
+</ul>
+
+</section>
+
+<!-- ===== TESTIMONIALS ===== -->
+<section class="testimonials">
+
+<h2>Testimonials</h2>
+
+<p class="testimonial-subtitle">
+Hear what students are saying about their Qigong experience.
+</p>
+
+<div class="testimonial-container">
+
+<div class="testimonial-card">
+<img src="https://codehs.com/uploads/400743d6a458726e783606aa286aaf55">
+<p>
+“What sets Lee apart is the way her knowledge of Qi Gong is matched by her softness and presence as a teacher.”
+</p>
+<h4>— Sudah McFadden</h4>
+</div>
+
+<div class="testimonial-card">
+<img src="https://codehs.com/uploads/147298e8c5d89214eec63f039e1cb28d">
+<p>
+“Lee is an incredible teacher. She meets her students where they are.”
+</p>
+<h4>— Linsey Cichon</h4>
+</div>
+
+<div class="testimonial-card">
+<img src="https://codehs.com/uploads/51bda190af56d130dd1eab914dbc12d1">
+<p>
+“Qigong has become a deeply healing practice of movement and breath.”
+</p>
+<h4>— Kathleen M.</h4>
+</div>
+
+</div>
+
+</section>
+
+<!-- ===== STAY CONNECTED ===== -->
+<section>
+
+<h2>Stay Connected</h2>
+
+<p>
+Subscribe to receive updates about upcoming classes, workshops, and special events.
+</p>
+
+<form action="subscribe.php" method="post">
+
+<label for="email">Email Address:</label>
+<input type="email" id="email" name="email" required>
+
+<input type="text" name="website" style="display:none">
+
+<button type="submit">Subscribe</button>
+
+</form>
+
+<p class="small-note">
+We respect your privacy. Unsubscribe at any time.
+</p>
+
+</section>
+
+</main>
+
+<!-- ===== FOOTER ===== -->
+<footer>
+
+<p>&copy; 2026 Qigong in the Midlands</p>
+
+<p>
+Contact:
+<a href="mailto:Qigonginthemidlands@gmail.com" style="color:white;">
+Qigonginthemidlands@gmail.com
+</a>
+</p>
+
+</footer>
+
+</body>
+</html>
+
+style.css:
+---------
+/* ===== Global Page Styling ===== */
+body {
+  font-family: Georgia, serif;
+  margin: 0;
+  background-color: #f7f7f4;
+  color: #333;
+  line-height: 1.6;
+}
+
+/* ===== Header ===== */
+header {
+  background-color: #2f5d50;
+  color: white;
+  text-align: center;
+  padding: 2rem 1rem;
+}
+
+header h1,
+header h2,
+header h3,
+header p {
+  color: white;
+  margin: 0.5rem 0;
+}
+
+/* ===== Header Images (Cleaned + Combined) ===== */
+header img {
+  width: 30%;
+  max-width: 250px;
+  height: auto;
+  margin: 0.75rem;
+  border-radius: 8px;
+}
+
+/* ===== Navigation ===== */
+nav {
+  background-color: #e5ece9;
+  padding: 0.75rem;
+  text-align: center;
+}
+
+nav a {
+  color: #2f5d50;
+  text-decoration: none;
+  font-weight: bold;
+  margin: 0 0.75rem;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+/* ===== Page Sections ===== */
+main {
+  max-width: 900px;
+  margin: auto;
+}
+
+section {
+  padding: 2rem 1rem;
+}
+
+/* ===== Lists ===== */
+ul {
+  padding-left: 1.5rem;
+}
+
+li {
+  margin-bottom: 0.5rem;
+}
+
+/* ===== Forms ===== */
+form {
+  max-width: 400px;
+}
+
+form label {
+  font-weight: bold;
+}
+
+form input {
+  width: 100%;
+  padding: 0.6rem;
+  margin: 0.5rem 0 1rem 0;
+}
+
+form button {
+  background-color: #2f5d50;
+  color: white;
+  border: none;
+  padding: 0.6rem 1.2rem;
+  cursor: pointer;
+}
+
+form button:hover {
+  background-color: #244b41;
+}
+
+/* ===== Footer ===== */
+footer {
+  background-color: #2f5d50;
+  color: white;
+  text-align: center;
+  padding: 1.5rem 1rem;
+}
+
+footer h2,
+footer p {
+  color: white;
+  margin: 0.5rem 0;
+}
+
+/* ===== Tables ===== */
+.custom-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+}
+
+.custom-table th,
+.custom-table td {
+  border: 1px solid #2f5d50;
+  padding: 0.75rem;
+  text-align: left;
+}
+
+.custom-table th {
+  background-color: #e5ece9;
+  color: #2f5d50;
+  font-weight: bold;
+}
+
+/* ===== TESTIMONIALS SECTION ===== */
+
+.testimonials {
+    text-align: center;
+    padding: 60px 20px;
+    background-color: #f4f4f4;
+}
+
+.testimonials h2 {
+    color: #c79a2b;
+    font-size: 32px;
+    margin-bottom: 10px;
+}
+
+.testimonial-subtitle {
+    margin-bottom: 40px;
+    color: #555;
+}
+
+/* ⭐ SIDE-BY-SIDE MAGIC LIVES HERE */
+.testimonial-container {
+    display: flex;
+    justify-content: center;
+    align-items: stretch;   /* NEW - keeps cards same height */
+    gap: 30px;
+    flex-wrap: wrap;
+    max-width: 1000px;      /* NEW - keeps row centered nicely */
+    margin: 0 auto;
+}
+
+.testimonial-card {
+    background: white;
+    padding: 30px 20px 20px;
+    width: 300px;
+    min-height: 320px;      /* NEW - keeps rows even */
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    position: relative;
+}
+
+.testimonial-card img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-top: -60px;
+    border: 5px solid white;
+}
+
+.testimonial-card p {
+    font-size: 15px;
+    color: #444;
+    margin: 20px 0;
+}
+
+.testimonial-card h4 {
+    color: #c79a2b;
+    font-weight: normal;
+}
+
+/* ===== YIN YANG ===== */
+.yinyang-symbol {
+    width: 200px;
+    height: auto;
+}
+
+.yinyang-wrapper {
+    text-align: center;
+    margin: 25px 0;
+}
+
+/* ===== RESPONSIVE BOOST (NEW) ===== */
+@media (max-width: 768px) {
+    .testimonial-card {
+        width: 90%;
+        max-width: 400px;
+    }
+}
+.class-hero {
+    text-align: center;
+    padding: 80px 20px 40px;
+}
+
+.class-hero h1 {
+    font-size: 48px;
+    margin-bottom: 15px;
+}
+
+.class-hero p {
+    max-width: 700px;
+    margin: auto;
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+.premium-card {
+    max-width: 1000px;
+    margin: 40px auto;
+    padding: 40px;
+    border-radius: 24px;
+    box-shadow: 0 8px 30px rgba(0,0,0,0.08);
+    background: white;
+}
+
+.calendar-frame iframe {
+    width: 100%;
+    height: 600px;
+    border: none;
+    border-radius: 16px;
+}
+
+.register-btn {
+    display: inline-block;
+    padding: 12px 28px;
+    font-size: 1rem;
+    border-radius: 8px;
+    text-decoration: none;
+     font-size: 18px;
+    font-family: Georgia, serif;
+    background-color: #e5ece9;   /* light green */
+    color: #2f5d50;              /* dark green text */
+    border: 2px solid #2f5d50;
+    border-radius: 40px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+/* Hover effect */
+.register-btn:hover {
+    background-color: #2f5d50;
+    color: white;
+}
+
+}
+.cta-section {
+    text-align: center;
+    padding: 60px 20px;
+}
+
+.cta-button {
+    display: inline-block;
+    padding: 16px 40px;
+    border-radius: 40px;
+    font-size: 20px;
+    text-decoration: none;
+    margin-top: 20px;
+}
+
+.cta-section {
+    max-width: 900px;
+    margin: 60px auto;
+    padding: 40px;
+    text-align: center;
+}
+
+.cta-section iframe {
+    width: 100%;
+    border: none;
+    border-radius: 16px;
+}
+/* ===============================
+   PREMIUM SPACING SYSTEM
+   Qigong in the Midlands
+   =============================== */
+
+main {
+    max-width: 1100px;
+    margin: auto;
+    padding: 20px;
+}
+
+/* Card spacing */
+.card {
+    margin: 40px auto;
+    padding: 30px;
+    border-radius: 22px;
+    box-shadow: 0 6px 25px rgba(0,0,0,0.08);
+    background: white;
+}
+
+/* Section spacing */
+section {
+    padding-bottom: 60px;
+}
+
+/* CTA Registration Section */
+.cta-section {
+    max-width: 900px;
+    margin: 80px auto;
+    padding: 50px;
+    text-align: center;
+}
+
+/* Form iframe styling */
+.cta-section iframe {
+    width: 100%;
+    border: none;
+    border-radius: 18px;
+    display: block;
+    margin: 30px auto;
+}
+
+/* Header spacing */
+header {
+    text-align: center;
+    padding: 60px 20px 40px;
+}
+
+/* Navigation spacing */
+nav {
+    text-align: center;
+    padding: 20px;
+}
+
+nav a {
+    margin: 0 18px;
+    text-decoration: none;
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+
+    .card {
+        padding: 20px;
+        margin: 25px auto;
+    }
+
+    .cta-section {
+        padding: 30px 20px;
+        margin: 50px auto;
+    }
+
+    header h1 {
+        font-size: 32px;
+    }
+}
+.logo-container {
+    text-align: center;
+    margin: 30px 0;
+}
+
+.logo-container img {
+    display: block;
+    margin: auto;
+}
+section {
+    padding: 40px 20px;
+    margin: 0; /* removes extra default margin */
+}
+
+.class-section {
+    margin-bottom: 20px; /* controls space below cards */
+}
+
+.cta-section {
+    margin-top: 0; /* removes extra gap above */
+    padding-top: 30px;
+}
+
+.cta-section h2 {
+    margin-top: 0; /* removes default h2 spacing */
+}
+.welcome-flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 40px;
+    max-width: 1000px;
+    margin: auto;
+}
+
+.main-logo {
+    display: block;
+    margin: auto;
+}
+.art-energy {
+    text-align: left;
+    padding: 40px 20px;
+}
+
+.infinity-icon {
+    vertical-align: middle;
+    margin-left: 10px;
+}
+.hero {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.hero img {
+    width: 120px;
+    height: auto;
+}
+.hero {
+    display: block !important;
+}
+
+.hero p {
+    display: block !important;
+    width: 100% !important;
+    margin-top: 20px !important;
+    text-align: center !important;
+    clear: both;
+}
+.art-energy {
+    text-align: left;
+}
+
+.art-energy ul {
+    display: inline-block;
+    text-align: left;
+    margin-top: 20px;
+}
+section {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 40px 20px;
+}
+
+subscribe.php:
+-------------
+<?php
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
+
+    // Honeypot spam check
+    if (!empty($_POST['website'])) {
+        exit();
+    }
+
+    // Sanitize email
+    $email = filter_var($_POST['email'], FILTER_SANITIZE_EMAIL);
+
+    if (filter_var($email, FILTER_VALIDATE_EMAIL)) {
+
+        $to = "Qigonginthemidlands@gmail.com";
+        $subject = "New Subscriber - Qigong in the Midlands";
+        $message = "New subscriber email: " . $email;
+
+        $headers = "From: website@qigonginthemidlands.com\r\n";
+        $headers .= "Reply-To: " . $email . "\r\n";
+
+        mail($to, $subject, $message, $headers);
+
+        // Redirect to thank you page
+        header("Location: thankyou.html");
+        exit();
+
+    } else {
+        echo "Invalid email address.";
+    }
+}
+?>
+
+thankyou.html:
+-------------
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="robots" content="noindex">
+    <title>Thank You | Qigong in the Midlands</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<section style="text-align:center; padding:50px;">
+    <h2>Thank You for Subscribing!</h2>
+    <p>You have successfully joined our mailing list.</p>
+    <a href="index.html">Return to Home</a>
+</section>
+
+</body>
+</html>
+

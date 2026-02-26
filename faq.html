@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>FAQ | Qigong in the Midlands</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="style.css">
+
+<style>
+
+/* FAQ Accordion */
+
+.faq-container {
+    max-width: 900px;
+    margin: 60px auto;
+}
+
+.faq-item {
+    border-bottom: 1px solid #2f5d50;
+}
+
+.faq-question {
+    width: 100%;
+    background: none;
+    border: none;
+    padding: 20px;
+    text-align: left;
+    font-size: 18px;
+    font-family: Georgia, serif;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.faq-question:hover {
+    background-color: #e5ece9;
+}
+
+.faq-answer {
+    display: none;
+    padding: 0 20px 20px 20px;
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+.arrow {
+    transition: transform 0.3s ease;
+}
+
+.faq-question.active .arrow {
+    transform: rotate(180deg);
+}
+
+.faq-question.active + .faq-answer {
+    display: block;
+}
+
+</style>
+</head>
+
+<body>
+
+<header class="hero">
+<h1>Frequently Asked Questions</h1><img src="https://codehs.com/uploads/445e7bf26784b0ba05af687166ce88b8"alt="Qigong in the Midlands logo">
+</header>
+
+<nav>
+<a href="index.html">Home</a>
+<a href="about.html">About Lee</a>
+<a href="classes.html">Classes</a>
+<a href="calendar.html">Calendar</a>
+<a href="aboutqigong.html">About Qigong</a>
+<a href="faq.html">FAQ</a>
+</nav>
+
+<main>
+
+<div class="faq-container">
+
+<div class="faq-item">
+<button class="faq-question">
+<span>Will I be able to do this with my level of fitness?</span>
+<span class="arrow">▼</span>
+</button>
+
+<div class="faq-answer">
+<p>
+If you are able to walk, sit, and stand independently, you should be fine in an introductory Qigong class.
+All moves are adaptable. Everyone should stay within your own comfort zone.
+If you are unable to walk, sit, or stand independently, bring an assistant if needed.
+</p>
+</div>
+</div>
+
+<div class="faq-item">
+<button class="faq-question">
+<span>What should I bring?</span>
+<span class="arrow">▼</span>
+</button>
+
+<div class="faq-answer">
+<ul>
+<li>A yoga mat or blanket</li>
+<li>Water bottle (warm water in cold months, room temperature in warm months)</li>
+<li>Fresh snack if needed</li>
+<li>Layered, loose clothing</li>
+<li>Gloves in cooler weather</li>
+<li>Barefoot or low-heeled shoes recommended</li>
+</ul>
+</div>
+</div>
+
+<div class="faq-item">
+<button class="faq-question">
+<span>What types of movements should I expect?</span>
+<span class="arrow">▼</span>
+</button>
+
+<div class="faq-answer">
+<ul>
+<li>Lying down, seated, or standing movements</li>
+<li>Kicks and punches may be included</li>
+<li>Postures may be held longer</li>
+<li>Bending, turning, balancing, and back arching may occur</li>
+<li>Breathing exercises are central</li>
+<li>Always stay within your comfort zone</li>
+</ul>
+</div>
+</div>
+
+<div class="faq-item">
+<button class="faq-question">
+<span>Can children do Qigong?</span>
+<span class="arrow">▼</span>
+</button>
+
+<div class="faq-answer">
+<p>
+Yes — children and the elderly can benefit from Qigong. Future announcements will include family class times.
+</p>
+</div>
+</div>
+
+<div class="faq-item">
+<button class="faq-question">
+<span>Is Qigong religious in nature?</span>
+<span class="arrow">▼</span>
+</button>
+
+<div class="faq-answer">
+<p>
+While Qigong has historical roots in Daoist and Buddhist traditions, it is not a faith-based practice.
+Meditative components are open to personal interpretation.
+</p>
+</div>
+</div>
+
+<div class="faq-item">
+<button class="faq-question">
+<span>Who is Qigong helpful for?</span>
+<span class="arrow">▼</span>
+</button>
+
+<div class="faq-answer">
+<p>
+Almost everyone can benefit from Qigong practice. Consistency improves results.
+Exception: Not certified to work with schizophrenia spectrum conditions.
+</p>
+</div>
+</div>
+
+</div>
+
+<section style="text-align:center; padding:40px;">
+<p>“When the student is ready, the teacher will appear. When the student is truly ready, the teacher disappears.”</p>
+<p>— Lao Tzu</p>
+</section>
+
+</main>
+
+<script>
+document.querySelectorAll(".faq-question").forEach(button => {
+    button.addEventListener("click", () => {
+        button.classList.toggle("active");
+    });
+});
+</script>
+
+</body>
+</html>
