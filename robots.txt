@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mpiner81-byte.github.io/Qigong-In-The-Midlands/sitemap.xml
