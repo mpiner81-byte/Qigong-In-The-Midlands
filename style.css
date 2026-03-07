@@ -449,3 +449,8 @@ section {
     margin: 0 auto;
     padding: 40px 20px;
 }
+.cta-list {
+    text-align: left;
+    display: inline-block;
+    margin-top: 10px;
+}
