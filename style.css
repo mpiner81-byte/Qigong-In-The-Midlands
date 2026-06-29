@@ -454,3 +454,7 @@ section {
     display: inline-block;
     margin-top: 10px;
 }
+.social-links img {
+    width: 24px;
+    height: 24px;
+}
